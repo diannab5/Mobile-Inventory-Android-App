@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".About"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:fontFamily="serif"
+        android:layout_marginTop="40dp"
+        android:text="@string/aplicatie_de_inventariat_a_mijloacelor_fixe_dintr_o_firma"
+        android:textColor="@color/colorPrimary"
+        android:textSize="16dp"/>
+
+    <TextView
+        android:layout_width="250dp"
+        android:layout_height="20dp"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:fontFamily="serif"
+        android:layout_marginTop="40dp"
+        android:text="@string/incarca_o_imagine_din_galerie"
+        android:textColor="@color/colorPrimary" />
+    
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/ic_image"
+        android:id="@+id/image_view"/>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="@string/alege_o_imagine"
+        android:id="@+id/BTN_alegeImg"
+        android:textColor="@color/white"
+        android:background="@color/colorPrimary"/>
+
+
+
+
+</LinearLayout>

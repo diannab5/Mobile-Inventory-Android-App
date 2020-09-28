@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Aplicatie de Inventariat</string>
+    <string name="inventoryapp">InventoryApp</string>
+    <string name="inventar">Inventar</string>
+    <string name="about">About</string>
+    <string name="rating">Rating</string>
+    <string name="adauga_un_nou_element">Adauga un nou element</string>
+    <string name="nume">Nume:</string>
+    <string name="categorie">Categorie:</string>
+    <string name="cantitate">Cantitate:</string>
+    <string name="pret">Pret:</string>
+    <string name="furnizor">Furnizor:</string>
+    <string name="data_adaugare">Data adaugare:</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="lista_inventar">Lista inventar</string>
+    <string name="trimite">Trimite</string>
+    <string name="feedback">Feedback</string>
+    <string name="nume_si_prenume">Nume si prenume</string>
+    <string name="ce_parere_aveti_despre_aplicatie">Ce parere aveti despre aplicatie?</string>
+    <string name="aplicatie_de_inventariat_a_mijloacelor_fixe_dintr_o_firma">Aplicatie de inventariat a mijloacelor fixe dintr-o firma</string>
+    <string name="contact_firme_pentru_reparatii">Contact firme pentru reparatii</string>
+    <string name="faza_ii">Faza II</string>
+    <string name="inregistrare">Inregistrare</string>
+    <string name="renunta">Renunta</string>
+    <string name="creaza_un_cont_nou">Creaza un cont nou</string>
+    <string name="prenume">Prenume</string>
+    <string name="email">Email</string>
+    <string name="parola">Parola</string>
+    <string name="login">Login</string>
+    <string name="nu_ai_cont">Nu ai cont?</string>
+    <string name="inregistreza_te">Inregistreza-te</string>
+    <string name="firme_pentru_reparatia_echipamentelor">Firme pentru reparatia echipamentelor</string>
+
+
+    <array name="elementeCateg">
+        <item>Mijloace de transport</item>
+        <item>Mobilier</item>
+        <item>Aparatura birotica</item>
+    </array>
+    <string name="title_activity_maps">Map</string>
+    <string name="harta">Harta</string>
+    <string name="statistici">Statistici</string>
+    <string name="raport_1">Raport 1</string>
+    <string name="lista_utilizatori_cu_numele_popescu">Lista utilizatori cu numele Popescu</string>
+    <string name="id">Id</string>
+    <string name="raport_2">Raport 2</string>
+    <string name="SavedyourText">Saved your text</string>
+    <string name="savedyourtext">Saved your text</string>
+    <string name="incarca_o_imagine_din_galerie">Incarca o imagine din galerie:</string>
+    <string name="salvare_raport">Salvare raport</string>
+    <string name="alege_o_imagine">Alege o imagine</string>
+    <string name="lista_utilizatori_cu_id_ul_mai_mare_de_1">Lista utilizatori cu id-ul mai mare de 1</string>
+    <string name="accesrefuzat">Acces refuzat!</string>
+    <string name="addelement">Adauga un nou element</string>
+    <string name="mesajtrimis">Mesajul a fost trimis!</string>
+    <string name="trebuiesacompletezicampurile">Trebuie sa completezi toate campurile!</string>
+    <string name="failedtoreadvalue">Failed to read value.</string>
+    <string name="youneedtoregisterfirst">Trebuie sa te inregistrezi mai intai!</string>
+    <string name="youneedtofillallfields">Trebuie sa completezi toate campurile!</string>
+</resources>

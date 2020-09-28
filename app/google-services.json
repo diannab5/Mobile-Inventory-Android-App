@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "122908174157",
+    "firebase_url": "https://obiecte-28d58.firebaseio.com",
+    "project_id": "obiecte-28d58",
+    "storage_bucket": "obiecte-28d58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122908174157:android:889ac72343bde817f1f904",
+        "android_client_info": {
+          "package_name": "com.example.aplicatiedeinventariat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122908174157-82v5m12u7os9h9muk11m017rpqmfsa2p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aplicatiedeinventariat",
+            "certificate_hash": "943a8243a08f0937932d9b634c6a322a9e390454"
+          }
+        },
+        {
+          "client_id": "122908174157-lsrb6rsi8hqbh427asjeoanj5p9bn07n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqzIOrbWVmd6DT6mGJ3f1aPjG6hDK_N-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122908174157-lsrb6rsi8hqbh427asjeoanj5p9bn07n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
